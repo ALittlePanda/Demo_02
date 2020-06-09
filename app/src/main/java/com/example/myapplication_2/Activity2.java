@@ -43,7 +43,7 @@ public class Activity2 extends AppCompatActivity {
                 setResult(RESULT_OK,mIntent);
 
 
-                Activity2.this.finish();
+                Activity2.this.finish();//释放activity2
             }
 
 

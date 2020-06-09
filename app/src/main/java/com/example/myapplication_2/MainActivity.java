@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         radioButtons.add(radioButton2);
         radioButtons.add(radioButton3);
         radioButtons.add(radioButton4);
-        button.setOnClickListener(new View.OnClickListener() {
+        button.setOnClickListener(new View.OnClickListener() {//创建监听器
             @Override
             public void onClick(View v) {
 
@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
                 else if(radioButton4.isChecked()){
                     z=x/y;
                 }
+
 
                 DecimalFormat format = new DecimalFormat("###.##");
                 String formatted = format.format(z);

@@ -25,4 +25,5 @@
     <string name="text_2">" "</string>
     <string name="date">1.0.3date</string>
     <string name="view_1">图标</string>
+    <string name="Activity2_text">注意\n在您点击“返回”后，该结果将会直接返回到“数据一”中，方便您接下来的计算</string>
 </resources>
