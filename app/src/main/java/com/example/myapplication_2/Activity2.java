@@ -16,6 +16,9 @@ import android.widget.TextView;
 import javax.xml.transform.Result;
 
 public class Activity2 extends AppCompatActivity {
+    /*
+    我在这里写两句话
+     */
 
     private Button button2;
     TextView textView2;
