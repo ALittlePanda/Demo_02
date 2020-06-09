@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">奥利给运算器</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="name">奥利给运算器</string>
+    <string name="shuju_1">数据1</string>
+    <string name="shuju_2">数据2</string>
+    <string name="button">运算</string>
+    <string name="jiafa">+ (加法)</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="jia">+</string>
+    <string name="jianfa">- (减法)</string>
+    <string name="chengfa">* (乘法)</string>
+    <string name="chufa">/ (除法)</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="text_1">结果</string>
+    <string name="Button_2">返回</string>
+    <string name="text_2">" "</string>
+    <string name="date">1.0.3date</string>
+    <string name="view_1">图标</string>
+</resources>
