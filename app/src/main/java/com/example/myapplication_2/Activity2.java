@@ -33,6 +33,7 @@ public class Activity2 extends AppCompatActivity {
         Intent mIntent = getIntent();
         Bundle b = mIntent.getExtras();
         textView2.setText(b.getString("text"));
+
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

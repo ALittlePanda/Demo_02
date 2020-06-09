@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
 
-                DecimalFormat format = new DecimalFormat("###.##");
+                DecimalFormat format = new DecimalFormat("###.##");//保留两位小数
                 String formatted = format.format(z);
                 Intent intent = new Intent(MainActivity.this,Activity2.class);
                 Bundle b = new Bundle();
